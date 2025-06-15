@@ -1,5 +1,5 @@
 ## Hi there 👋
-![tryhackme stats](https://raw.githubusercontent.com/whoosh09/whoosh09/main/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/whoosh09/whoosh09/master/assets/thm_propic.png)
 <!--
 **whoosh09/whoosh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
