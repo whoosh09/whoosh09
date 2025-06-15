@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Swip.png)(https://tryhackme.com/p/Swip)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Swip.png)](https://tryhackme.com/p/Swip)
+
 
 <!--
 **whoosh09/whoosh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
