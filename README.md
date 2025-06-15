@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Swip.png)](https://tryhackme.com/p/Swip)
-![TryHackMe Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-2PSRN33MSI.pdf)
+
 
 
 <!--
