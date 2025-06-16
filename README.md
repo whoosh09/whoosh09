@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Swip.png)](https://tryhackme.com/p/Swip)
+[![TryHackMe Badge]()](https://tryhackme.com/p/Swip)
 
 
 
